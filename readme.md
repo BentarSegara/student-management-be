@@ -257,7 +257,3 @@ File `mysql.js` menyediakan wrapper class untuk operasi database:
 ISC
 
 ---
-
-<p align="center">
-  Made with ❤️ using Node.js & Express
-</p>
