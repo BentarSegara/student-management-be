@@ -255,5 +255,3 @@ File `mysql.js` menyediakan wrapper class untuk operasi database:
 ## 📄 License
 
 ISC
-
----
