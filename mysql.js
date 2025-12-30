@@ -25,7 +25,7 @@ export default class MySQL {
       const connection = await mysql.createConnection(this._dbConfig);
       console.log("Connected to MySQL database!");
       this.connection = connection;
-    } catch (error) {
+    } catch (err) {
       throw new Error(`Gagal menghubungkan ke mysql: ${err.message}`);
     }
   }
